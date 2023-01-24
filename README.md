@@ -3,4 +3,5 @@
 ---
 
 #### Stack:
-- Next
+
+- Next.js
